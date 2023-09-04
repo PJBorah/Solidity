@@ -2,8 +2,8 @@
 pragma solidity  >=0.8.2 <0.9.0;
 //pragma solidity >=0.8.2 <0.9.0; means that your code is designed to work with Solidity versions starting from 0.8.2 up to, but not including, 0.9.0. 
 
-//Identitiy id our file name identitiy,sol
-contract Identity
+//Day1 is our file name day1.sol
+contract Day1
  {
      string name;
      uint age;
